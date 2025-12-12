@@ -1,4 +1,3 @@
-# Looms-and-Berries-LLP
 # 📘 Looms & Berries LLP – Excel Assessment (Completed)
 
 This repository contains my completed **Excel Assessment** submitted to **Looms & Berries LLP**.  
